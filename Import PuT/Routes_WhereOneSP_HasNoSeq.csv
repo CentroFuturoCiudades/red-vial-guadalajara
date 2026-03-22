@@ -1,0 +1,150 @@
+ROUTE_ID,ROUTE_NAME,ID_RUTA,TIME,LONGITUD,DISTANCE,RUTA_ACT,RUTA_ANT,CLASE,ORI_DES,SITUACION,FRECUENCIA,FLOTA,CAPACIDAD,HEADWAY,TDR,MODE,CORREDOR,DEMANDA1,DEMANDA2,DEMANDA3,F_CORREDOR
+3,Route 100,100,116.25,39.28,3874.0,C125 Valle de los Emperadores,186 Valle de los Emperadores_2,Complementarias,Destino: Antigua Central de Autobuses,Operando,4.29,29.0,404.2,14.0,121.8,1,11.0,0.0,0.0,2.07,98.6186
+5,Route 102,102,116.25,39.28,3874.0,C125 Valle de los Emperadores directa,186 Valle de los Emperadores - Direct_2,Complementarias,Destino: Antigua Central de Autobuses,Operando,3.33,21.0,297.0,18.0,121.8,1,11.0,0.0,0.0,2.07,98.6186
+10,Route 107,107,119.1,35.73,2380.0,C127A (No Opera),183A Chulavista_1,Complementarias,Origen:�Villa Fontana Aqua Etapa 6,No opera,1.5,9.0,120.0,40.0,116.82,1,,0.0,0.0,0.0,66.6106
+11,Route 108,108,118.14,35.5,2055.0,C127A (No Opera),183A Chulavista_2,Complementarias,Destino: Rinconada del Bosque,No opera,1.5,9.0,120.0,40.0,115.86,1,,0.0,0.0,0.0,57.8805
+215,Route 292,292,87.73,23.64,0.0,C89,162 Copala_1,Complementarias,C89,Operando,0.33,1.0,24.0,180.0,80.25,1,10.0,0.0,0.0,0.0,0.0
+216,Route 293,293,87.57,23.63,0.0,C89,162 Copala_2,Complementarias,C89,Operando,0.33,1.0,24.0,180.0,80.1,1,10.0,0.0,0.0,0.0,0.0
+300,Route 369,369,70.08,20.4,0.0,A 19,A19_2,Alimentadora Macrob�s,A 19,Operando,5.45,17.0,440.0,11.0,66.81,4,,0.0,0.0,0.0,0.0
+445,Route 5,5,62.47,17.09,0.0,T08-C02,,Complementaria de troncal,,Operando,2.0,0.0,160.0,30.0,56.44,15,,0.0,0.0,0.0,0.0
+525,Route 571,571,106.6,32.11,0.0,C128A-V1,182 Balcones_2,Complementarias,Destino: Ant. Central de Autobuses,Operando,0.5,0.0,40.0,120.0,105.15,1,,0.0,0.0,0.0,0.0
+556,Route 6,6,62.91,17.15,0.0,T08-C02,,Complementaria de troncal,,Operando,2.0,0.0,160.0,30.0,56.82,15,,0.0,0.0,0.0,0.0
+643,Route 678,678,99.42,29.01,0.0,T14A,50A Chulavista (Adolf Horn)_2,Troncal,Destino: Centro Metropolitano,Operando,1.71,7.0,137.14,35.0,95.1,9,,0.0,0.0,0.0,0.0
+644,Route 679,679,102.65,30.57,0.0,T14A-C01,50A Santa Fe (8 De Julio)_1,Complementaria de troncal,Origen: Chulavista,Operando,1.71,7.0,136.0,35.0,99.48,15,6.0,0.0,0.0,0.0,0.0
+646,Route 680,680,102.13,30.63,0.0,T14A-C01,50A Santa Fe (8 De Julio)_2,Complementaria de troncal,Destino: Centro Metropolitano,Operando,1.71,7.0,136.0,35.0,98.99,15,6.0,0.0,0.0,0.0,0.0
+705,Route 801,801,30.6,16.32,0.0,L1,L1,Tren ligero,,Operando,15.0,0.0,6255.0,4.0,32.65,5,2.0,0.0,0.0,0.0,0.0
+706,Route 802,802,30.6,16.32,0.0,L1,L1,Tren ligero,,Operando,15.0,0.0,6255.0,4.0,32.65,5,2.0,0.0,0.0,0.0,0.0
+707,Route 803,803,15.92,8.49,0.0,L2,L2,Tren ligero,,Operando,12.0,0.0,5004.0,5.0,16.98,5,9.0,0.0,0.0,0.0,0.0
+708,Route 804,804,15.92,8.49,0.0,L2,L2,Tren ligero,,Operando,12.0,0.0,5004.0,5.0,16.98,5,9.0,0.0,0.0,0.0,0.0
+709,Route 805,805,37.15,19.81,0.0,L3,L3,Tren ligero,,Operando,12.0,0.0,6000.0,5.0,39.62,5,3.0,0.0,0.0,0.16,0.0
+710,Route 806,806,37.15,19.81,0.0,L3,L3,Tren ligero,,Operando,12.0,0.0,6000.0,5.0,39.62,5,3.0,0.0,0.0,0.16,0.0
+711,Route 807,807,44.59,15.98,0.0,MC-T01,Macrob�s,BRT,,Operando,12.0,0.0,2040.0,5.0,44.59,2,5.0,0.0,0.0,0.0,0.0
+712,Route 808,808,44.56,15.97,0.0,MC-T01,Macrob�s,BRT,,Operando,12.0,0.0,2040.0,5.0,44.56,2,5.0,0.0,0.0,0.0,0.0
+713,Route 809,809,37.9,15.98,0.0,MC-T01 Expr�s,Macrob�s Expr�s,BRT,,Operando,6.0,0.0,1020.0,10.0,39.24,3,5.0,0.0,0.0,0.0,0.0
+715,Route 810,810,37.88,15.97,0.0,MC-T01 Expr�s,Macrob�s Expr�s,BRT,,Operando,6.0,0.0,1020.0,10.0,39.21,3,5.0,0.0,0.0,0.0,0.0
+741,Route 16,16,83.23,20.41,0.0,C05-1,,Complementarias,C05-1_2,Operando,2.14,10.0,168.0,28.0,74.31,1,13.0,0.0,0.0,1.72,0.0
+746,Route 378,378,75.51,18.79,0.0,MP-A01,78 Huertas_1,Alimentadora Mi Macro Perif�rico,MP-A01,Operando,6.0,9.0,480.0,10.0,67.87,13,,0.0,0.0,0.0,0.0
+748,Route 405,405,70.53,17.56,0.0,T02,80_1,Troncal,T02,Operando,4.29,18.0,344.0,14.0,63.58,9,,0.0,0.0,0.0,0.0
+754,Route 551,551,91.05,23.13,0.0,C05,136_2,Complementarias,Destino: Centro Metropolitano,Operando,1.76,12.0,144.0,34.0,83.4,1,,0.0,0.0,0.0,0.0
+755,Route 553,553,84.26,21.75,0.0,C06,136A_2,Complementarias,Destino: Centro Metropolitano,Operando,0.98,5.0,80.0,61.0,79.2,1,,0.0,0.0,0.0,0.0
+759,Route 595,595,60.7,17.76,0.0,C47 Panteon,,Complementarias,,Operando,3.53,0.0,282.32,17.0,60.4,1,4.0,0.0,0.0,0.0,0.0
+760,Route 599,599,53.97,16.96,0.0,C47-V2,644A Kilometro 13_2,Complementarias,Destino: Centro Metropolitano,Operando,3.75,25.0,304.0,16.0,55.37,1,4.0,0.0,0.0,0.0,0.0
+762,Route 601,601,30.13,9.09,0.0,C48,644A El Tapatio_2,Complementarias,Destino: Centro Metropolitano,Operando,7.5,11.0,600.0,8.0,29.98,1,4.0,0.0,0.0,0.0,0.0
+787,Route 15,15,85.47,22.24,0.0,C05-1,,Complementarias,C05-1_1,Operando,2.14,10.0,168.0,28.0,77.07,1,13.0,0.0,0.0,2.05,0.0
+791,Route 379,379,69.68,18.23,0.0,MP-A01,78 Huertas_2,Alimentadora Mi Macro Perif�rico,MP-A01,Operando,6.0,9.0,480.0,10.0,63.21,13,,0.0,0.0,0.0,0.0
+793,Route 404,404,66.54,17.42,0.0,T02,80_2,Troncal,T02,Operando,4.29,18.0,344.0,14.0,60.54,9,,0.0,0.0,0.0,0.0
+798,Route 550,550,77.2,21.7,0.0,C05,136_1,Complementarias,Origen: Arroyo de Enmedio,Operando,1.76,12.0,144.0,34.0,74.3,1,,0.0,0.0,0.0,0.0
+799,Route 552,552,87.89,23.93,0.0,C06,136A_1,Complementarias,Origen: La Cofrad�a,Operando,0.98,5.0,80.0,61.0,83.6,1,,0.0,0.0,0.0,0.0
+806,Route 600,600,32.64,10.12,0.0,C48,644A El Tapatio_1,Complementarias,Origen: El Tapat�o,Operando,7.5,11.0,600.0,8.0,33.36,1,4.0,0.0,0.0,0.0,0.0
+809,Route 617,617,45.26,13.24,0.0,C83,644A Las Liebres_1,Complementarias,Origen: Las Liebres,Operando,3.75,23.0,304.0,16.0,44.44,1,4.0,0.0,0.0,0.0,0.0
+878,Route 193,193,68.18,19.94,0.0,C40,619 Naranja Chulavista - Tren Ligero_1,Complementarias,Origen: Chulavista,Operando*,6.67,27.0,688.0,9.0,65.68,1,,0.0,0.0,0.0,0.0
+890,Route 387,387,167.04,51.34,0.0,MP-A05,619 Roja_2,Alimentadora Mi Macro Perif�rico,MP-A05,Operando,4.62,14.0,368.0,13.0,163.71,13,,0.0,0.0,0.0,0.0
+921,Route 106,106,94.7,33.26,0.0,C126-V1,186A Lomas de Tejeda - TLJ - Lopez Ma_2,Complementarias,Destino: Estaci�n Col�n MiMacro Perif�rico,Operando,1.13,7.0,101.2,53.0,101.11,1,,0.0,0.0,0.0,0.0
+950,Route 397,397,70.27,33.06,0.0,MP-C01,380 Oriente_2,Complementaria Mi Macro Perif�rico,MP-C01,Operando,3.0,0.0,300.0,20.0,94.47,14,19.0,0.0,0.0,0.0,0.0
+966,Route 396,396,67.78,32.34,0.0,MP-C01,380 Oriente_1,Complementaria Mi Macro Perif�rico,MP-C01,Operando,3.0,0.0,300.0,20.0,91.27,14,19.0,0.0,0.0,0.0,0.0
+968,Route 398,398,65.26,26.92,0.0,MP-C02,320A - 380A_1,Complementaria Mi Macro Perif�rico,MP-C02,Operando,6.67,24.0,670.0,9.0,78.47,14,,0.0,0.0,0.0,0.0
+986,Route 399,399,71.24,28.91,0.0,MP-C02,320A - 380A_2,Complementaria Mi Macro Perif�rico,MP-C02,Operando,6.67,24.0,670.0,9.0,85.49,14,,0.0,0.0,0.0,0.0
+990,Route 813,813,53.32,24.44,0.0,MP-T02,MP-T02,BRT,,Operando,6.0,0.0,1020.0,10.0,53.32,12,1.0,0.0,0.0,0.0,0.0
+995,Route 814,814,53.26,24.41,0.0,MP-T02,MP-T02,BRT,,Operando,6.0,0.0,1020.0,10.0,53.26,12,1.0,0.0,0.0,0.0,0.0
+1009,Route 541,541,130.74,40.35,0.0,T17-C01,632A Villa Fontana - Galerias Santa A_2,Complementaria de troncal,T17-C01,Operando,4.29,22.0,344.0,14.0,127.51,15,,0.0,0.0,0.0,0.0
+1017,Route 540,540,134.35,40.33,0.0,T17-C01,632A Villa Fontana - Galerias Santa A_1,Complementaria de troncal,T17-C01,Operando,4.29,22.0,344.0,14.0,130.58,15,,0.0,0.0,0.0,0.0
+1022,Route 812,812,92.42,42.36,0.0,MP-T01,Perib�s,BRT,,Operando,12.0,0.0,2040.0,5.0,92.42,12,1.0,0.0,0.0,0.0,0.0
+1025,Route 816,816,39.79,18.24,0.0,MP-T03,MP-T03,BRT,,Operando,6.0,0.0,1020.0,10.0,39.79,12,1.0,0.0,0.0,0.0,0.0
+1029,Route 313,313,82.19,25.02,0.0,C99,R 01 (181)_1,Complementarias,Origen: Haciendas de Santa Fe,Operando,2.73,9.0,216.0,22.0,79.98,1,,0.0,0.0,0.0,0.0
+1042,Route 194,194,84.61,24.58,0.0,C40,619 Naranja Chulavista - Tren Ligero_2,Complementarias,Destino: Estaci�n Perif�rico Sur L1 TEU,Operando*,6.67,27.0,688.0,9.0,81.28,1,,0.0,0.0,0.0,0.0
+1046,Route 70,70,83.78,23.97,0.0,C114-V1,181 8 de Julio_2,Complementarias,Destino: Estaci�n Perif�rico Sur  L1 TEU,Operando,4.62,13.0,376.28,13.0,80.76,1,6.0,0.0,0.0,0.0,0.0
+1049,Route 386,386,155.82,47.29,0.0,MP-A05,619 Roja_1,Alimentadora Mi Macro Perif�rico,MP-A05,Operando,4.62,14.0,368.0,13.0,152.48,13,,0.0,0.0,0.0,0.0
+1057,Route 570,570,112.8,33.59,0.0,C128A-V1,182 Balcones_1,Complementarias,Origen: Balcones de Santa Anita,Operando,0.5,0.0,40.0,120.0,110.74,1,,0.0,0.0,0.0,0.0
+1061,Route 815,815,39.59,18.15,0.0,MP-T03,MP-T03,BRT,,Operando,6.0,0.0,1020.0,10.0,39.59,12,1.0,0.0,0.0,0.0,0.0
+1063,Route 811,811,92.56,42.42,0.0,MP-T01,Perib�s,BRT,,Operando,12.0,0.0,2040.0,5.0,92.56,12,1.0,0.0,0.0,0.0,0.0
+1073,Route 36,36,103.45,29.39,0.0,C102 Zapote del Valle,,Complementarias,Destino: Zapote del Valle,Operando,1.0,0.0,80.0,60.0,99.06,1,,0.0,0.0,0.0,0.0
+1078,Route 38,38,126.7,38.62,0.0,C103,188 TLJ- La Noria - Lomas de Tejeda_2,Complementarias,Destino: Estaci�n L1 TEU Perif�rico Sur,Operando,8.57,42.0,688.0,7.0,125.98,1,7.0,0.0,0.0,0.0,0.0
+1082,Route 37,37,144.69,44.2,0.0,C103,188 TLJ- La Noria - Lomas de Tejeda_1,Complementarias,Origen:�Cabecera Municipal Tlajomulco de Z��iga,Operando,8.57,42.0,688.0,7.0,143.35,1,7.0,0.0,0.0,0.0,0.0
+1083,Route 104,104,101.8,30.77,0.0,C126 (No Opera),382A Villa Galicia_2,Complementarias,Destino: Estaci�n Col�n MiMacro Perif�rico,No opera,0.92,2.0,72.0,65.0,99.88,1,,0.0,0.0,0.0,0.0
+1089,Route 124,124,85.07,25.23,0.0,C132 (No Opera),382 La Providencia - Tlajomulco - Chu_1,Complementarias,Origen: Hacienda de los Eucaliptos,No opera,6.67,19.0,536.0,9.0,83.5,1,,0.0,0.0,0.0,0.0
+1117,Route 35,35,97.67,28.31,0.0,C102 Zapote del Valle,,Complementarias,Origen: Cabecera Municipal de Tlajomulco,Operando,1.0,0.0,80.0,60.0,93.54,1,,0.0,0.0,0.0,0.0
+1218,Route 197,197,78.49,25.92,0.0,C41-V2 (No Opera),619 Amarilla - Cantaros_1,Complementarias,Chulavista,No opera,8.57,22.0,688.0,7.0,79.79,1,,0.0,0.0,0.0,0.0
+1219,Route 308,308,71.14,23.1,0.0,C97-V2 (No Opera),,Complementarias,Origen: El Quince,No opera,1.0,0.0,80.0,60.0,75.67,1,,0.0,0.0,1.16,0.0
+1220,Route 467,467,88.41,32.57,0.0,T13A-C02 Parques de la Victoria (No Opera),176C Cima Serena - Parques de la Vict_1,Complementaria de troncal,T13A-C02_1,No opera,1.0,0.0,80.0,60.0,100.45,15,,0.0,0.0,0.0,0.0
+1221,Route 468,468,48.35,16.6,0.0,T13A-C02 Villa Fontana (No Opera),176C Villa Fontana - Central de Autob_1,Complementaria de troncal,T13A-C02 Font_1,No opera,1.0,0.0,80.0,60.0,52.29,15,,0.0,0.0,0.0,0.0
+1222,Route 556,556,97.82,31.52,0.0,C111,176A Robles_1,Complementarias,Origen: Colinas del Roble,Operando,3.0,15.0,240.0,20.0,99.58,1,,0.0,0.0,0.0,0.0
+1223,Route 560,560,93.8,29.77,0.0,C111-V3,176A Chulavista_1,Complementarias,Origen: Chulavista,Operando,3.0,15.0,240.0,20.0,94.5,1,,0.0,0.0,0.0,0.0
+1224,Route 594,594,58.94,18.39,0.0,C47 Panteon,,Complementarias,,Operando,3.53,0.0,282.32,17.0,59.79,1,4.0,0.0,0.0,0.0,0.0
+1225,Route 598,598,54.53,17.37,0.0,C47-V2,644A Kilometro 13_1,Complementarias,Origen: Las Pintitas,Operando,3.75,25.0,304.0,16.0,56.52,1,4.0,0.0,0.0,0.0,0.0
+1226,Route 614,614,108.59,31.93,0.0,C67 V2,171 (Verde) Aqua - Cantaros - Verde V_1,Complementarias,Origen: Chulavista,Operando,4.29,18.0,344.0,14.0,106.95,1,14.0,0.0,0.0,0.0,0.0
+1227,Route 663,663,86.36,34.44,0.0,T13B Azucena,178 Azucena - El Verde (177)_1,Troncal,Origen: Juanacatl�n�,Operando,3.53,19.0,320.6,17.0,101.7,9,,0.0,0.0,0.0,0.0
+1228,Route 665,665,91.97,34.87,0.0,T13B Lilas,178 Juanacatl�n - Lilas - El Verde_1,Troncal,Origen: Juanacatl�n,Operando,1.0,0.0,80.0,60.0,105.54,9,,0.0,0.0,0.0,0.0
+1229,Route 667,667,67.68,27.57,0.0,T13B-1 Jardines,176B Jardines_1,Troncal,Origen: Juanacatl�n,Operando,12.0,45.0,960.0,5.0,81.31,9,,0.0,0.0,0.0,0.0
+1230,Route 669,669,73.42,29.37,0.0,T13B-1 Villas,176B Villas_1,Troncal,Origen: Villas de la Alameda,Operando,12.0,39.0,960.0,5.0,87.93,9,,0.0,0.0,0.0,0.0
+1231,Route 672,672,82.68,33.6,0.0,T13B-3 Salto-El Verde,Juanacatlan-El Salto-El Verde-Ant. Ce_1,Troncal,Origen: Juanacatl�n,Operando,1.0,0.0,80.0,60.0,98.58,9,,0.0,0.0,0.0,0.0
+1232,Route 673,673,68.24,26.35,0.0,T13B-C01 Cima Serena,178 Cima Serena_1,Complementaria de troncal,Origen: Cima Serena,Operando,4.0,24.0,320.0,15.0,79.39,15,,0.0,0.0,0.0,0.0
+1233,Route 706,706,103.58,31.49,0.0,T15-C04 Quince - Villas,275B La Villa_2,Complementaria de troncal,Destino: Villas,Operando,0.74,6.0,56.0,81.0,102.14,15,13.0,7.12,0.0,0.0,0.0
+1234,Route 400,400,56.85,26.84,0.0,MP-C03,619 Blanca_1,Complementaria Mi Macro Perif�rico,MP-C03,Operando,3.0,0.0,300.0,20.0,67.76,14,1.0,0.0,0.0,0.0,0.0
+1235,Route 59,59,67.05,21.82,0.0,C111-V3 IMSS 39,176A Chulavista_1,Complementarias,Origen: Chulavista,Operando,3.0,15.0,240.0,20.0,68.62,1,,0.0,0.0,0.0,0.0
+1236,Route 33,33,153.97,47.9,0.0,C102,187_1,Complementarias,Origen:�H�roes de Nacozari,Operando*,6.67,37.0,536.0,10.0,154.99,1,14.0,0.0,0.0,0.0,0.0
+1237,Route 195,195,87.52,28.24,0.0,C41-V1,619 Amarilla - Santa Fe_1,Complementarias,Origen: Chulavista,Operando,5.0,35.0,400.0,12.0,88.4,1,,0.0,0.0,0.0,0.0
+1238,Route 611,611,105.84,32.45,0.0,C67 V1,171 (Roja) Pintitas_1,Complementarias,Origen: Chulavista,Operando,4.29,18.0,344.0,14.0,105.57,1,,0.0,0.0,0.0,0.0
+1239,Route 464,464,83.21,28.56,0.0,T13A-C01 Central de Autobuses (No opera),176 Central de Autobuses_1,Complementaria de troncal,Origen: El Quince,No opera,1.88,5.0,152.0,32.0,90.27,15,4.0,0.0,0.0,0.0,0.0
+1240,Route 653,653,55.13,20.16,0.0,T13A-C01 Antigua Central de Autobuses,176 Antigua Central de Autobuses_1,Complementaria de troncal,Origen: El Quince,Operando,1.0,20.0,80.0,60.0,63.7,15,4.0,0.0,0.0,0.0,0.0
+1241,Route 655,655,68.81,29.14,0.0,T13A-C02 Cima Serena,176C Cima Serena_1,Complementaria de troncal,Origen: Cima Serena,Operando,4.62,20.0,368.0,13.0,86.6,15,4.0,0.0,0.0,0.0,0.0
+1242,Route 657,657,80.35,33.81,0.0,T13A-C02 Purisima,176C Purisima_1,Complementaria de troncal,Origen: La Pur�sima,Operando,4.62,20.0,368.0,13.0,101.7,15,4.0,0.0,0.0,0.0,0.0
+1245,Route 461,461,72.22,30.67,0.0,T13A-5 Agaves,Agaves - Antigua Central de Autobuses_2,Complementaria de troncal,Destino: Guadalajara Centro,Operando,3.16,19.0,256.0,19.0,90.84,15,4.0,0.0,0.0,0.0,0.0
+1246,Route 562,562,74.26,31.16,0.0,C112 Centro,,Complementarias,Origen: Los Agaves,Operando,3.0,0.0,240.0,20.0,92.76,1,4.0,0.0,0.0,0.0,0.0
+1247,Route 641,641,83.23,35.89,0.0,T13A Alameda,177 Alameda_1,Troncal,Origen: Juanacatl�n,Operando,2.4,16.0,222.0,25.0,103.21,9,4.0,0.0,0.0,0.0,0.0
+1248,Route 643,643,95.9,38.82,0.0,T13A Azucena,177 Alameda_1,Troncal,Origen: Juanacatl�n,Operando,2.4,16.0,222.0,25.0,115.21,9,4.0,0.0,0.0,0.0,0.0
+1249,Route 645,645,85.62,38.79,0.0,T13A-C04 Arvento,Arvento - Antigua Central de Autobuse_1,Complementaria de troncal,Origen: Arvento,Operando,1.0,0.0,80.0,60.0,114.54,15,4.0,0.0,0.0,0.0,0.0
+1250,Route 647,647,70.18,30.33,0.0,T13A-5 Agaves -Tren Ligero,Agaves - Tren Ligero Periferico Sur_1,Complementaria de troncal,Origen: Agaves,Operando,2.0,0.0,160.0,30.0,88.9,15,4.0,0.0,0.0,0.0,0.0
+1251,Route 649,649,86.99,35.36,0.0,T13A-6 Zapote-Antigua Central,Zapote - Aeropueto - Antigua Central_1,Complementaria de troncal,Origen: Aeropuerto,Operando,1.0,0.0,80.0,60.0,108.46,15,4.0,0.0,0.0,0.0,0.0
+1252,Route 651,651,82.04,35.62,0.0,T13A-7 Juanacatl�n Guadalajara Centro,Juanacatlan-El Salto-Alameda-Ant. Cen_1,Complementaria de troncal,Origen: Juanacatl�n,Operando,1.0,0.0,80.0,60.0,102.38,15,4.0,0.0,0.0,0.0,0.0
+1253,Route 659,659,55.99,25.69,0.0,T13A-C03 Rancho Alegre,180A Rancho Alegre - Antigua Central_1,Complementaria de troncal,Origen: Rancho Alegre,Operando,1.25,5.0,104.0,48.0,72.91,15,4.0,0.0,0.0,0.0,0.0
+1254,Route 661,661,60.03,26.62,0.0,T13A-C03 Silos,180A Silos - Antigua Central de Autob_1,Complementaria de troncal,Origen: Silos,Operando,1.0,0.0,80.0,60.0,76.87,15,4.0,0.0,0.0,0.0,0.0
+1255,Route 721,721,81.51,38.28,0.0,T13A-C04,Arvento - Antigua Central de Autobuse,Complementaria de troncal,,Solo campo,2.86,12.0,232.0,21.0,111.46,15,4.0,0.0,0.0,0.0,0.0
+1258,Route 196,196,89.75,28.45,0.0,C41-V1,619 Amarilla - Santa Fe_2,Complementarias,Destino: Central de Autobuses,Operando,5.0,35.0,400.0,12.0,89.68,1,,0.0,0.0,0.0,0.0
+1259,Route 198,198,82.61,26.77,0.0,C41-V2 (No Opera),619 Amarilla - Cantaros_2,Complementarias,Destino: Central de Autobuses,No opera,8.57,22.0,688.0,7.0,82.86,1,,0.0,0.0,0.0,0.0
+1260,Route 309,309,70.43,23.15,0.0,C97-V2 (No Opera),,Complementarias,Destino: Centro Metropolitano,No opera,1.0,0.0,80.0,60.0,75.57,1,,0.0,0.0,1.68,0.0
+1261,Route 466,466,82.76,30.89,0.0,T13A-C02 Parques de la Victoria (No Opera),176C Cima Serena - Parques de la Vict_2,Complementaria de troncal,T13A-C02_2,No opera,1.0,0.0,80.0,60.0,95.12,15,,0.0,0.0,0.0,0.0
+1262,Route 469,469,62.11,20.16,0.0,T13A-C02 Villa Fontana (No Opera),176C Villa Fontana - Central de Autob_2,Complementaria de troncal,T13A-C02 Font_2,No opera,1.0,0.0,80.0,60.0,64.8,15,,0.0,0.0,0.0,0.0
+1263,Route 557,557,95.32,30.69,0.0,C111,176A Robles_2,Complementarias,Destino: Centro Metropolitano,Operando,3.0,15.0,240.0,20.0,96.71,1,,0.0,0.0,0.0,0.0
+1264,Route 561,561,93.37,29.2,0.0,C111-V3,176A Chulavista_2,Complementarias,Destino: El �lamo,Operando,3.0,15.0,240.0,20.0,93.22,1,,0.0,0.0,0.0,0.0
+1265,Route 612,612,108.81,33.4,0.0,C67 V1,171 (Roja) Pintitas_2,Complementarias,Destino: Centro Metropolitano,Operando,4.29,19.0,344.0,14.0,108.25,1,,0.0,0.0,0.0,0.0
+1266,Route 613,613,104.86,30.54,0.0,C67 V2,171 (Verde) Aqua - Cantaros - Verde V_2,Complementarias,Destino: Centro Metropolitano,Operando,4.29,19.0,344.0,14.0,102.76,1,14.0,0.0,0.0,0.0,0.0
+1267,Route 618,618,42.66,13.9,0.0,C83,644A Las Liebres_2,Complementarias,Destino: Centro Metropolitano,Operando,3.75,23.0,304.0,16.0,44.89,1,4.0,0.0,0.0,0.0,0.0
+1268,Route 664,664,86.73,34.19,0.0,T13B Azucena,178 Azucena - El Verde (177)_2,Troncal,Destino: Centro Metropolitano,Operando,3.53,19.0,320.6,17.0,102.17,9,,0.0,0.0,0.0,0.0
+1269,Route 666,666,94.66,35.17,0.0,T13B Lilas,178 Juanacatl�n - Lilas - El Verde_2,Troncal,Destino: Centro Metropolitano,Operando,1.0,0.0,80.0,60.0,108.34,9,,0.0,0.0,0.0,0.0
+1270,Route 668,668,68.73,27.56,0.0,T13B-1 Jardines,176B Jardines_2,Troncal,Destino: Centro Metropolitano,Operando,12.0,45.0,960.0,5.0,82.61,9,,0.0,0.0,0.0,0.0
+1271,Route 670,670,72.81,28.94,0.0,T13B-1 Villas,176B Villas_2,Troncal,Destino: Centro Metropolitano,Operando,12.0,39.0,960.0,5.0,87.47,9,,0.0,0.0,0.0,0.0
+1272,Route 671,671,80.72,32.93,0.0,T13B-3 Salto-El Verde,Juanacatlan-El Salto-El Verde-Ant. Ce_2,Troncal,Destino: Centro Metropolitano,Operando,1.0,0.0,80.0,60.0,96.88,9,,0.0,0.0,0.0,0.0
+1273,Route 674,674,68.89,26.25,0.0,T13B-C01 Cima Serena,178 Cima Serena_2,Complementaria de troncal,Destino: Centro Metropolitano,Operando,4.0,24.0,320.0,15.0,80.14,15,,0.0,0.0,0.0,0.0
+1274,Route 705,705,107.72,32.29,0.0,T15-C04 Quince - Villas,275B La Villa_1,Complementaria de troncal,Origen: El Quince,Operando,0.74,6.0,56.0,81.0,106.58,15,13.0,6.89,0.0,0.0,0.0
+1276,Route 401,401,56.73,26.5,0.0,MP-C03,619 Blanca_2,Complementaria Mi Macro Perif�rico,MP-C03,Operando,3.0,0.0,300.0,20.0,66.78,14,1.0,0.0,0.0,0.0,0.0
+1277,Route 34,34,142.92,43.91,0.0,C102,187_2,Complementarias,Destino: Francisco Villa,Operando*,6.67,37.0,536.0,10.0,143.15,1,14.0,0.0,0.0,0.0,0.0
+1278,Route 60,60,65.69,21.26,0.0,C111-V3 IMSS 39,176A Chulavista_2,Complementarias,Destino: El �lamo,Operando,3.0,15.0,240.0,20.0,66.83,1,,0.0,0.0,0.0,0.0
+1280,Route 549,549,43.89,17.59,0.0,T13A-6 Aeropuerto Nva. Central,Aeropuerto - Central Nueva_2,Complementaria de troncal,Destino: Nva. Central Camionera,Operando,1.0,0.0,80.0,60.0,52.42,15,4.0,0.0,0.0,0.0,0.0
+1281,Route 460,460,67.98,27.8,0.0,T13A-5 Agaves,Agaves - Antigua Central de Autobuses_1,Complementaria de troncal,Origen: Agaves,Operando,3.16,19.0,256.0,19.0,82.72,15,4.0,0.0,0.0,0.0,0.0
+1282,Route 563,563,72.82,28.93,0.0,C112 Centro,,Complementarias,Destino: Centro Metropolitano,Operando,3.0,0.0,240.0,20.0,87.3,1,4.0,0.0,0.0,0.0,0.0
+1283,Route 642,642,86.06,35.43,0.0,T13A Alameda,177 Alameda_2,Troncal,Destino: Centro Metropolitano,Operando,2.4,16.0,222.0,25.0,103.36,9,4.0,0.0,0.0,0.0,0.0
+1284,Route 644,644,99.0,38.38,0.0,T13A Azucena,177 Alameda_2,Troncal,Destino: Centro Metropolitano,Operando,2.4,16.0,222.0,25.0,115.55,9,4.0,0.0,0.0,0.0,0.0
+1285,Route 646,646,84.26,37.61,0.0,T13A-C04 Arvento,Arvento - Antigua Central de Autobuse_2,Complementaria de troncal,Destino: Guadalajara Centro,Operando,1.0,0.0,80.0,60.0,111.05,15,4.0,0.0,0.0,0.0,0.0
+1286,Route 648,648,67.68,27.75,0.0,T13A-5 Agaves -Tren Ligero,Agaves - Tren Ligero Periferico Sur_2,Complementaria de troncal,Destino: Estaci�n�Tren Ligero Perif�rico Sur,Operando,2.0,0.0,160.0,30.0,82.43,15,4.0,0.0,0.0,0.0,0.0
+1287,Route 650,650,68.38,25.29,0.0,T13A-6 Zapote-Antigua Central,Zapote - Aeropueto - Antigua Central_2,Complementaria de troncal,Destino: Ant. Central Camionera,Operando,1.0,0.0,80.0,60.0,79.29,15,4.0,0.0,0.0,0.0,0.0
+1288,Route 652,652,82.54,34.69,0.0,T13A-7 Juanacatl�n Guadalajara Centro,Juanacatlan-El Salto-Alameda-Ant. Cen_2,Complementaria de troncal,Destino: Guadalajara Centro,Operando,1.0,0.0,80.0,60.0,100.29,15,4.0,0.0,0.0,0.0,0.0
+1289,Route 660,660,61.79,26.57,0.0,T13A-C03 Rancho Alegre,180A Rancho Alegre - Antigua Central_2,Complementaria de troncal,Destino: Centro Metropolitano,Operando,1.25,5.0,104.0,48.0,77.29,15,4.0,0.0,0.0,0.0,0.0
+1290,Route 662,662,65.95,27.75,0.0,T13A-C03 Silos,180A Silos - Antigua Central de Autob_2,Complementaria de troncal,Destino: Centro Metropolitano,Operando,1.0,0.0,80.0,60.0,81.83,15,4.0,0.0,0.0,0.0,0.0
+1291,Route 722,722,78.17,36.03,0.0,T13A-C04,Arvento - Antigua Central de Autobuse,Complementaria de troncal,,Solo campo,2.86,12.0,232.0,21.0,104.6,15,4.0,0.0,0.0,0.0,0.0
+1293,Route 465,465,97.99,33.91,0.0,T13A-C01 Central de Autobuses (No opera),176 Central de Autobuses_2,Complementaria de troncal,Destino: Central de Autobuses,No opera,1.88,5.0,152.0,32.0,106.38,15,4.0,0.0,0.0,0.0,0.0
+1294,Route 654,654,68.7,24.99,0.0,T13A-C01 Antigua Central de Autobuses,176 Antigua Central de Autobuses_1,Complementaria de troncal,Destino: Centro Metropolitano,Operando,1.0,20.0,80.0,60.0,77.97,15,4.0,0.0,0.0,0.0,0.0
+1295,Route 656,656,67.09,28.13,0.0,T13A-C02 Cima Serena,176C Cima Serena_2,Complementaria de troncal,Destino: Centro Metropolitano,Operando,4.62,20.0,368.0,13.0,83.33,15,4.0,0.0,0.0,0.0,0.0
+1296,Route 658,658,78.63,32.8,0.0,T13A-C02 Purisima,176C Purisima_2,Complementaria de troncal,Destino: Centro Metropolitano,Operando,4.62,20.0,368.0,13.0,98.44,15,4.0,0.0,0.0,0.0,0.0
+1306,Route 911,911,37.15,27.15,0.0,L3_Op1,L3,Tren ligero,L3 Carretera a Colotl�n,Propuesta,12.0,0.0,6000.0,5.0,39.62,5,3.0,0.0,0.0,0.16,0.0
+1307,Route 912,912,37.15,27.17,0.0,L3_Op1,L3,Tren ligero,L3 Carretera a Colotl�n,Propuesta,12.0,0.0,6000.0,5.0,39.62,5,3.0,0.0,0.0,0.16,0.0
+1308,Route 913,913,37.15,37.14,0.0,L3_Op2 VdLM,L3,Tren ligero,Valle de Los Molinos,Propuesta,12.0,0.0,6000.0,5.0,39.62,5,3.0,0.0,0.0,0.16,0.0
+1309,Route 914,914,37.15,37.15,0.0,L3_Op2 VdLM,L3,Tren ligero,Valle de Los Molinos,Propuesta,12.0,0.0,6000.0,5.0,39.62,5,3.0,0.0,0.0,0.16,0.0
+1310,Route 915,915,37.15,29.39,0.0,L3_Op2 Tesist�n,L3,Tren ligero,L3 Tesist�n,Propuesta,12.0,0.0,6000.0,5.0,39.62,5,3.0,0.0,0.0,0.16,0.0
+1311,Route 916,916,37.15,29.44,0.0,L3_Op2 Tesist�n,L3,Tren ligero,L3 Tesist�n,Propuesta,12.0,0.0,6000.0,5.0,39.62,5,3.0,0.0,0.0,0.16,0.0
+1321,Route 941,941,37.15,23.81,0.0,L3_Op3,L3,Tren ligero,L3 Av. Aviaci�n,Propuesta,12.0,0.0,6000.0,5.0,39.62,5,3.0,0.0,0.0,0.16,0.0
+1322,Route 942,942,37.15,23.84,0.0,L3_Op3,L3,Tren ligero,L3 Av. Aviaci�n,Propuesta,12.0,0.0,6000.0,5.0,39.62,5,3.0,0.0,0.0,0.16,0.0
+1332,Route 951,951,71.74,17.35,0.0,L3 Alimentadora Milpillas Op3,L3,SITREN,Milpillas,Propuesta,1.36,5.0,112.0,20.0,82.95,6,10.0,0.0,0.0,0.0,0.0
+1333,Route 952,952,69.92,17.35,0.0,L3 Alimentadora Milpillas Op3,L3,SITREN,Milpillas,Propuesta,1.36,5.0,112.0,20.0,81.21,6,10.0,0.0,0.0,0.0,0.0
+1335,Route 954,954,98.18,13.31,0.0,L3 Alimentadora Angeles Op3,L3,SITREN,�ngeles,Propuesta,1.88,9.0,152.0,20.0,89.98,6,,0.0,0.0,0.0,0.0
+1336,Route 955,955,83.77,9.64,0.0,L3 Alimentadora Las Agujas Op3,L3,SITREN,T16B-C03,Propuesta,5.45,20.0,440.0,12.0,76.86,6,,0.0,0.0,0.0,0.0
+1337,Route 956,956,81.96,9.67,0.0,L3 Alimentadora Las Agujas Op3,L3,SITREN,T16B-C03,Propuesta,5.45,20.0,440.0,12.0,75.44,6,,0.0,0.0,0.0,0.0
