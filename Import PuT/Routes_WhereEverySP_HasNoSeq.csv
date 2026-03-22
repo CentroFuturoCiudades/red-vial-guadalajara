@@ -1,0 +1,43 @@
+ROUTE_ID,ROUTE_NAME,ID_RUTA,TIME,LONGITUD,DISTANCE,RUTA_ACT,RUTA_ANT,CLASE,ORI_DES,SITUACION,FRECUENCIA,FLOTA,CAPACIDAD,HEADWAY,TDR,MODE,CORREDOR,DEMANDA1,DEMANDA2,DEMANDA3,F_CORREDOR
+1104,Route 901,901,,20.48,0.0,L4,,Tren ligero,Tlajomlulco Centro Fray Angelico,Construcci�n,12.0,0.0,6000.0,5.0,40.96,5,,0.0,0.0,0.0,0.0
+1105,Route 902,902,,20.48,0.0,L4,,Tren ligero,Fray Angelico Tlajomulco Centro,Construcci�n,12.0,0.0,6000.0,5.0,40.97,5,,0.0,0.0,0.0,0.0
+1108,Route 903,903,,11.08,0.0,SITREN L5,,SITREN,San Agust�n L4,Propuesta,5.0,0.0,80.0,12.0,30.11,6,,0.0,0.0,0.0,0.0
+1109,Route 904,904,,11.2,0.0,SITREN L5,,SITREN,San Agust�n L4,Propuesta,5.0,0.0,80.0,12.0,30.11,6,,0.0,0.0,0.0,0.0
+1110,Route 905,905,,10.75,0.0,SITREN L6,,SITREN,C�ntaros L4,Propuesta,5.0,0.0,80.0,12.0,30.11,6,,0.0,0.0,0.0,0.0
+1112,Route 910,910,,21.59,0.0,L5,,Tren ligero,La Venta del Astillero Parque Agua Azul,Propuesta,3.0,0.0,6000.0,20.0,41.78,5,,0.0,0.0,0.0,0.0
+1113,Route 909,909,,21.59,0.0,L5,,Tren ligero,Parque Agua Azul La Venta del Astillero,Propuesta,3.0,0.0,6000.0,20.0,41.78,5,,0.0,0.0,0.0,0.0
+1120,Route 921,921,,14.13,0.0,SITREN L4-1,,SITREN,Lomas del Sur,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1121,Route 922,922,,14.11,0.0,SITREN L4-1,,SITREN,Lomas del Sur,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1122,Route 923,923,,1.49,0.0,SITREN L4-2,,SITREN,Los Robles,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1123,Route 924,924,,1.62,0.0,SITREN L4-2,,SITREN,Los Robles,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1130,Route 906,906,,10.61,0.0,SITREN L6,,SITREN,C�ntaros L4,Propuesta,5.0,0.0,80.0,12.0,30.11,6,,0.0,0.0,0.0,0.0
+1131,Route 925,925,,16.43,0.0,SITREN L4-3,,SITREN,Los C�ntaros,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1132,Route 926,926,,16.44,0.0,SITREN L4-3,,SITREN,Los C�ntaros,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1133,Route 927,927,,6.39,0.0,SITREN L4-4,,SITREN,Santa Fe,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1134,Route 928,928,,6.42,0.0,SITREN L4-4,,SITREN,Santa Fe,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1135,Route 929,929,,2.73,0.0,SITREN L4-5,,SITREN,Real del Sol,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1136,Route 930,930,,2.81,0.0,SITREN L4-5,,SITREN,Real del Sol,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1138,Route 932,932,,3.27,0.0,SITREN L4-6,,SITREN,Real del Valle,Propuesta,5.0,0.0,80.0,12.0,30.11,6,,0.0,0.0,0.0,0.0
+1139,Route 931,931,,3.25,0.0,SITREN L4-6,,SITREN,Real del Valle,Propuesta,5.0,0.0,80.0,12.0,30.11,6,,0.0,0.0,0.0,0.0
+1140,Route 933,933,,11.59,0.0,SITREN L4-7,,SITREN,Chulavista,Propuesta,5.0,0.0,80.0,12.0,30.11,6,,0.0,0.0,0.0,0.0
+1141,Route 934,934,,11.71,0.0,SITREN L4-7,,SITREN,Chulavista,Propuesta,5.0,0.0,80.0,12.0,30.11,6,,0.0,0.0,0.0,0.0
+1142,Route 935,935,,5.41,0.0,SITREN L4-8,,SITREN,Hacienda de Los Eucaliptos,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1143,Route 936,936,,7.87,0.0,SITREN L4-8,,SITREN,Hacienda de Los Eucaliptos,Propuesta,6.0,0.0,80.0,10.0,30.11,6,,0.0,0.0,0.0,0.0
+1256,Route 821,821,,42.89,0.0,Guadalajara-Chapala,Autobuses Guadalajara-Chapala,Federal suburbana,Ixtlahuac�n - Antigua Central,Federal,1.0,,,60.0,,8,4.0,0.0,0.0,0.0,0.0
+1301,Route 822,822,,42.14,0.0,Guadalajara-Chapala,Autobuses Guadalajara-Chapala,Federal suburbana,Antigua Central - Ixtlahuac�n,Federal,1.0,,,60.0,,8,4.0,0.0,0.0,0.0,0.0
+1312,Route 917,917,,11.04,0.0,L3 Alimentadora VdLM,L3,SITREN,Valle de Los Molinos,Propuesta,5.0,0.0,80.0,5.0,,6,,,,,0.0
+1313,Route 918,918,,10.99,0.0,L3 Alimentadora VdLM,L3,SITREN,Valle de Los Molinos,Propuesta,5.0,0.0,80.0,5.0,,6,,,,,0.0
+1314,Route 919,919,,10.4,0.0,L3 Alimentadora El Taray,L3,SITREN,El Taray,Propuesta,4.0,0.0,80.0,12.0,,6,,,,,0.0
+1316,Route 937,937,,6.13,0.0,L3 Alimentadora Los Molinos,L3,SITREN,Los Molinos,Propuesta,5.0,0.0,80.0,10.0,,6,,,,,0.0
+1317,Route 938,938,,5.56,0.0,L3 Alimentadora Los Molinos,L3,SITREN,Los Molinos,Propuesta,5.0,0.0,80.0,10.0,,6,,,,,0.0
+1319,Route 940,940,,8.05,0.0,L3 Alimentadora Tesist�n,L3,SITREN,Tesist�n,Propuesta,5.0,0.0,80.0,12.0,,6,,,,,0.0
+1320,Route 939,939,,8.11,0.0,L3 Alimentadora Tesist�n,L3,SITREN,Tesist�n,Propuesta,5.0,0.0,80.0,12.0,,6,,,,,0.0
+1323,Route 943,943,,14.4,0.0,L3 Alimentadora VdLM Op2,L3,SITREN,Valle de Los Molinos,Propuesta,5.0,0.0,80.0,12.0,,6,,,,,0.0
+1324,Route 944,944,,14.36,0.0,L3 Alimentadora VdLM Op2,L3,SITREN,Valle de Los Molinos,Propuesta,5.0,0.0,80.0,12.0,,6,,,,,0.0
+1325,Route 945,945,,13.75,0.0,L3 Alimentadora El Taray Op2,L3,SITREN,El Taray,Propuesta,4.0,0.0,80.0,15.0,,6,,,,,0.0
+1326,Route 920,920,,10.4,0.0,L3 Alimentadora El Taray,L3,SITREN,El Taray,Propuesta,4.0,0.0,80.0,12.0,,6,,,,,0.0
+1327,Route 946,946,,13.74,0.0,L3 Alimentadora El Taray Op2,L3,SITREN,El Taray,Propuesta,4.0,0.0,80.0,15.0,,6,,,,,0.0
+1328,Route 947,947,,9.49,0.0,L3 Alimentadora Los Molinos Op2,L3,SITREN,Los Molinos,Propuesta,5.0,0.0,80.0,12.0,,6,,,,,0.0
+1329,Route 948,948,,8.93,0.0,L3 Alimentadora Los Molinos Op2,L3,SITREN,Los Molinos,Propuesta,5.0,0.0,80.0,12.0,,6,,,,,0.0
+1330,Route 950,950,,11.43,0.0,L3 Alimentadora Tesist�n Op2,L3,SITREN,Tesist�n,Propuesta,5.0,0.0,80.0,12.0,,6,,,,,0.0
+1331,Route 949,949,,11.4,0.0,L3 Alimentadora Tesist�n Op2,L3,SITREN,Tesist�n,Propuesta,5.0,0.0,80.0,12.0,,6,,,,,0.0
