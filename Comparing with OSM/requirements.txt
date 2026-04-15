@@ -1,0 +1,6 @@
+jupyterlab
+matplotlib==3.9.*
+numpy<2
+osmnx==2.0.*
+pandana==0.7.*
+pre-commit
