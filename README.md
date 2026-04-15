@@ -1,6 +1,9 @@
 # red-vial-guadalajara
 Construcción de la red en VISUM
 
+## USEFUL ‼️
+- HIGHWAY tags nomenclature: https://wiki.openstreetmap.org/wiki/Key:highway 
+
 ## Cleaning Files
 Cleaning of input files for Visum Net
 - add_FromNode_toNode_toLinks: adding fromNode & toNode to Links ✅
