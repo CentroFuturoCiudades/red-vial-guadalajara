@@ -24,7 +24,7 @@ Current OSMNX Visum Network ✅
 ## OSM-OSMNX ✅
 - redOSMNX_withLimits: download graph from OSMNX (vial & tren ligero) with delimiting AMG polygon from IMEPLAN 
 - insertingSP_Metro: insert SP of Tren Ligero in Visum (fall directly on nodes)
-- add_TALA: download TALA network and inserting it on Visum already existing network (connectivity is manual)
+- add_TALA_municipality: download TALA network and inserting it on Visum already existing network (connectivity is manual)
   
 ## Updating Network ✅
 - 01_velocidadesBuffer: give Capacity & Speed Limit attributes from TransCAD to OSM links where geometries match (only main avenues)
